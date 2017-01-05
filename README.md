@@ -1,2 +1,2 @@
 # modlingR
-set of samples show what we can do with R in Actuarial Modeling
+A set of samples codes show what we can do with R in Actuarial Modeling
